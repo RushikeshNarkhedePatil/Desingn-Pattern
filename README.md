@@ -1,5 +1,4 @@
 # Design Pattern in c Sharf
-C Programming Repository
 
 | Program Name             | Link Of Source Code                                                                   |
 | ----------------- | ------------------------------------------------------------------ |
